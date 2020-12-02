@@ -1,0 +1,142 @@
+{
+  "configVersion": 1,
+  "timestamp": 1606915014188,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/0.5031fdf2d8ca061dee67.js",
+        "/10.31ab70636cfe03bfcafc.js",
+        "/11.f63e400e85164a97df7d.js",
+        "/12.61f7d86220740f2a2b75.js",
+        "/13.77b11327d6a1b47be019.js",
+        "/3.dae164406a477677b505.js",
+        "/7.883b22fff586a7db9afc.js",
+        "/8.de3bc4ea037230e9a944.js",
+        "/9.0808654b9fc76bc79677.js",
+        "/common.c7a9bf8f852ce8d07481.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.78710ef5f581e089ed69.js",
+        "/manifest.webmanifest",
+        "/polyfills.bb2f89246a17e4122c10.js",
+        "/runtime.52105d3450c3726a825e.js",
+        "/styles.ea05fe0defcbc8cddb78.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/check.svg",
+        "/assets/images/close.svg",
+        "/assets/images/download.svg",
+        "/assets/images/folder.svg",
+        "/assets/images/hamburger.svg",
+        "/assets/images/icon-image.svg",
+        "/assets/images/icon-pdf.svg",
+        "/assets/images/icon-video-green.svg",
+        "/assets/images/icon-video.svg",
+        "/assets/images/intro-bg.svg",
+        "/assets/images/left-arrow.svg",
+        "/assets/images/login-logo.svg",
+        "/assets/images/logo-colored.svg",
+        "/assets/images/logo-netral.svg",
+        "/assets/images/logo-white.svg",
+        "/assets/images/no_image_available.png",
+        "/assets/images/quiz-bg.svg",
+        "/assets/images/quiz-survey.svg",
+        "/assets/images/sort.svg",
+        "/assets/images/swipe-up.svg",
+        "/assets/images/video.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/0.5031fdf2d8ca061dee67.js": "f012c453889e38c01fffce850636d1777828c1fb",
+    "/10.31ab70636cfe03bfcafc.js": "ed6c057873e0e19e79b3e61e45981d05c3d27420",
+    "/11.f63e400e85164a97df7d.js": "2295e7ade38d78f9d5441b95836b5fb7c922cfb3",
+    "/12.61f7d86220740f2a2b75.js": "3893d6c09d798da8a6eb5085f2f5bb704c3ef92d",
+    "/13.77b11327d6a1b47be019.js": "96cb1c56091b77d4ade3a62d3b43485927020f73",
+    "/3.dae164406a477677b505.js": "447747869f27bb35a9357f2f2addcd2bc72c80f2",
+    "/7.883b22fff586a7db9afc.js": "bc6472a9e70addeb1e1e75986804faaaa63436f6",
+    "/8.de3bc4ea037230e9a944.js": "b2e205f69945330ab64e3cf207fafc479c99fe37",
+    "/9.0808654b9fc76bc79677.js": "3bec92d2ec66a1c40b3f4e822ecf96c8c21882c7",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/check.svg": "827429c86ed560b33648e3172742ce78fd84bdfd",
+    "/assets/images/close.svg": "672d1ed5c8eb1b70745830735f2a7a8ed6ec8c0d",
+    "/assets/images/download.svg": "6843aef3c96f5a29d337937e5a783871f7eefaaa",
+    "/assets/images/folder.svg": "0611b59c95d9c0d1e53441ae6dc0313d8aadf962",
+    "/assets/images/hamburger.svg": "6d0cdef523defc20adf0d2aedd5d783c0e018599",
+    "/assets/images/icon-image.svg": "0d6054e22f390b04c12d273e411884d7f38af79e",
+    "/assets/images/icon-pdf.svg": "602bedc39d37c82ca389164bf8b806d00ee42f24",
+    "/assets/images/icon-video-green.svg": "bafb2d01009472b1549a377754d75194b9df658e",
+    "/assets/images/icon-video.svg": "ec116031ce39847338f8e3914f062e98124e4624",
+    "/assets/images/intro-bg.svg": "936190413cbd3e0cba7185060fd796de19f6cae9",
+    "/assets/images/left-arrow.svg": "f04b64e903c9f15e66009aa6fa9988cc2bf16bc8",
+    "/assets/images/login-logo.svg": "728adbd942c2b0234b36ca0f6e5d233c780f6f13",
+    "/assets/images/logo-colored.svg": "7e0d30fc9473d9a861e0698a95d284850aa4a0a5",
+    "/assets/images/logo-netral.svg": "0afbb399c4e21410f0c74a87a966e43e6475cdd9",
+    "/assets/images/logo-white.svg": "89b7444ecbeda68cb07dc44af7003438bd475242",
+    "/assets/images/no_image_available.png": "1cc56de5537cc8fe4b3054f6585fdfd78bbb1018",
+    "/assets/images/quiz-bg.svg": "41c8cca3f818e6e87aa8ca7b5dfb1578533be1b7",
+    "/assets/images/quiz-survey.svg": "1421493810db96bd03064b33b37a6a34f974b692",
+    "/assets/images/sort.svg": "a5117292419fbb371b6d1c635c9733de68fe7b4c",
+    "/assets/images/swipe-up.svg": "ba793348c5c4f7a8706deb5ae8d5eed981a10b2c",
+    "/assets/images/video.svg": "191b0e78bc4f5a00bd590d0f142dc859d1281fe5",
+    "/common.c7a9bf8f852ce8d07481.js": "110984d851a7c8dad547f8f569d787eaaa5cdaa8",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "cfc002d0b4bbb5946e735943d30f01a70e9c1c61",
+    "/main.78710ef5f581e089ed69.js": "83c97fa230c6575bb728aff695a016b673c85459",
+    "/manifest.webmanifest": "d0bbad89147e2439543c31d0e2de1bea0c37fb3b",
+    "/polyfills.bb2f89246a17e4122c10.js": "9d4cf56e6ab1d161974fedc4129abdb68c89356c",
+    "/runtime.52105d3450c3726a825e.js": "58a4ef639149ca1a0c6c7019157f6076ffc3ff24",
+    "/styles.ea05fe0defcbc8cddb78.css": "d6b9556710e5825a507d144e49d4c8bea291e08d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
